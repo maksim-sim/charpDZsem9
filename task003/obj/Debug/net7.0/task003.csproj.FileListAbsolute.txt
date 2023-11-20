@@ -1,0 +1,14 @@
+/Users/gost/Documents/Education_GB/c_sharp/DZ/sem9DZ/task003/bin/Debug/net7.0/task003
+/Users/gost/Documents/Education_GB/c_sharp/DZ/sem9DZ/task003/bin/Debug/net7.0/task003.deps.json
+/Users/gost/Documents/Education_GB/c_sharp/DZ/sem9DZ/task003/bin/Debug/net7.0/task003.runtimeconfig.json
+/Users/gost/Documents/Education_GB/c_sharp/DZ/sem9DZ/task003/bin/Debug/net7.0/task003.dll
+/Users/gost/Documents/Education_GB/c_sharp/DZ/sem9DZ/task003/bin/Debug/net7.0/task003.pdb
+/Users/gost/Documents/Education_GB/c_sharp/DZ/sem9DZ/task003/obj/Debug/net7.0/task003.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gost/Documents/Education_GB/c_sharp/DZ/sem9DZ/task003/obj/Debug/net7.0/task003.AssemblyInfoInputs.cache
+/Users/gost/Documents/Education_GB/c_sharp/DZ/sem9DZ/task003/obj/Debug/net7.0/task003.AssemblyInfo.cs
+/Users/gost/Documents/Education_GB/c_sharp/DZ/sem9DZ/task003/obj/Debug/net7.0/task003.csproj.CoreCompileInputs.cache
+/Users/gost/Documents/Education_GB/c_sharp/DZ/sem9DZ/task003/obj/Debug/net7.0/task003.dll
+/Users/gost/Documents/Education_GB/c_sharp/DZ/sem9DZ/task003/obj/Debug/net7.0/refint/task003.dll
+/Users/gost/Documents/Education_GB/c_sharp/DZ/sem9DZ/task003/obj/Debug/net7.0/task003.pdb
+/Users/gost/Documents/Education_GB/c_sharp/DZ/sem9DZ/task003/obj/Debug/net7.0/task003.genruntimeconfig.cache
+/Users/gost/Documents/Education_GB/c_sharp/DZ/sem9DZ/task003/obj/Debug/net7.0/ref/task003.dll
